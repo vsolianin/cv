@@ -632,6 +632,9 @@ ul {
 	color: #DCDCDC;
 	text-align: right;
 }
+a > .contact:hover {
+	font-weight: 900;
+}
 .fa-mobile-alt:before,
 .fa-envelope:before,
 .fa-facebook-square:before,
